@@ -1,7 +1,8 @@
 # flp-unlocker
 Allows you to reopen FLPs saved in the FL Studio trial.
 
-<br>
+> [!WARNING]
+> This repository has been archived due to being out of date. However, this script may still work on your FLPs. Feel free to try it! 
 
 ## How to use it
 You will need any version of Python 3. You can install one [here](https://www.python.org/downloads/).
